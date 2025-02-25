@@ -63,9 +63,6 @@ I am an undergraduate Computer science and Engineering student. Actually I'm wor
   <a href="https://github.com/SebaConde">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SebaConde&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="180px" />
   </a>
-  <a href="https://github.com/SebaConde">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebaConde&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="180px"/>
-  </a>
 </p>
 
 <!--
