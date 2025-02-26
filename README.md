@@ -57,6 +57,7 @@ I am an undergraduate Computer science and Engineering student. Actually I'm wor
 <a target="_blank" href="mailto:sebastiancondedev@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/sebasti%C3%A1n-conde-478025171/"><img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/sebasti%C3%A1n-conde-478025171/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></img></a>
+<a target="_blank" href="https://cafecito.app/sebacondev"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></img></a>
 <br>
 </p>
 
